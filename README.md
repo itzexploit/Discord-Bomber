@@ -1,5 +1,4 @@
 # Discord-Bomber
-✨ WELCOME 🍕
 
 ⭐ For Linux : [
 
